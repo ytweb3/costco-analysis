@@ -2,6 +2,8 @@
 
 This project contains scripts to fetch and analyze Costco receipt data using the Costco API. Note that you need to log in to costco.com manually and look at the network requests to get the bearer token, the client ID, and the client identifier.
 
+## See it in action: https://dangoldin.github.io/costco-analysis/ 
+
 ## Setup
 
 1. Install dependencies:
